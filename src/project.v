@@ -1,6 +1,6 @@
 `default_nettype none
 
-module tt_um_vga_example(
+module tt_um_vga_poopydog(
     input  wire [7:0] ui_in,    // Dedicated inputs for speed control
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
